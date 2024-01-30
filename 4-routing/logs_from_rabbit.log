@@ -1,0 +1,5 @@
+2023/12/22 10:36:55 Binding queue amq.gen-GCN84njGizJFvbVzq7GNSQ to exchange logs_direct with routing key warning
+2023/12/22 10:36:55 Binding queue amq.gen-GCN84njGizJFvbVzq7GNSQ to exchange logs_direct with routing key error
+2023/12/22 10:36:55  [*] Waiting for logs. To exit press CTRL+C
+2023/12/22 10:44:24  [x] Run. Run. Or it will explode.
+signal: interrupt
